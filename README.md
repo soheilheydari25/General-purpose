@@ -18,3 +18,7 @@ python culvert_2D_staging_3d_12days.py --video  # -> MP4 (needs kaleido + ffmpeg
 ```
 
 The programme length is `TOTAL_DAYS = 12` near the top of each script.
+
+## Live models
+
+Open `index.html` through GitHub Pages (Settings → Pages → Deploy from branch `main`, root).
