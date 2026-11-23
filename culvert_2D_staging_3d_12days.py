@@ -2,10 +2,10 @@
 """
 Culvert 2D (single barrel, 15.9 m slide-rail shoring BOX, 4 rails / 3 bays, 2 strut levels) - staged excavation, 3D time-lapse
 ======================================================================
-Derived from the 2B model (v3) and revised for Culvert WP-02D (CH 109981, Stage 2, Bruce Highway) using
+Derived from the 2B model (v3) and revised for a single-barrel culvert using
 "Typical cross section J" and the supplier slide-rail plan / Section A / Section B.
 
-Levels in metres, 0.0 = Stage 2 pavement level.  x runs along the culvert axis
+Levels in metres, 0.0 = pavement level.  x runs along the culvert axis
 (x = 0 is the shoring line next to the traffic = ROAD SIDE, culvert extends to -x),
 y runs along the road (chainage).
 

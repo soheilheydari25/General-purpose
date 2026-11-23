@@ -2,10 +2,10 @@
 """
 Culvert 2B - slide-rail shoring BOX + staged excavation, 3D time-lapse
 ======================================================================
-Built from "2B - Cross Section" (Culvert WP-02B CH 109687, Stage 2, Bruce Highway)
+Built from "2B - Cross Section" (typical culvert cross section)
 and the supplier box drawing (Section A / B).
 
-Levels in metres, 0.0 = Stage 2 pavement level.  x runs along the culvert axis
+Levels in metres, 0.0 = pavement level.  x runs along the culvert axis
 (x = 0 is the shoring line next to the traffic, culvert extends to -x, north end on the left),
 y runs along the road (chainage).
 
